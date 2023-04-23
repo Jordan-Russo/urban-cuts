@@ -2091,6 +2091,9 @@ input, select, textarea {
 
 /* Image */
 
+	img.portrait{
+		width: 400px;
+	}
 	.image {
 		border-radius: 3px;
 		border: 0;
